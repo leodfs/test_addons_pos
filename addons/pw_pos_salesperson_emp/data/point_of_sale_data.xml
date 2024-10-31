@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="uom.product_uom_categ_unit" model="uom.category">
+            <field name="is_pos_groupable">False</field>
+        </record>
+
+    </data>
+</odoo>
